@@ -22,8 +22,6 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohsin996&show_icons=true&hide_border=true" />
-
 [instagram]: https://www.instagram.com/mohsink92/
 [linkedin]: https://www.linkedin.com/in/mohsinkhan4/
 
