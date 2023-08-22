@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on some random projects
 - 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
 - 💬 Ask me about DevOps, AWS, Infrastructure, Linux
-- ⚡ Fun fact: I want to be a standup comedian
+- ⚡ Fun fact: 
 
 ### Connect with me:
 
