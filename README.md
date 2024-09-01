@@ -22,6 +22,3 @@
 
 [instagram]: https://www.instagram.com/mohsink92/
 [linkedin]: https://www.linkedin.com/in/mohsinkhan4/
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=mohsin996&hide=["issues"]&show_icons=true)
