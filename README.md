@@ -6,13 +6,12 @@
 
 ## Hi there, I'm Mohsin 👋
 
-### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
-- 🔭 I’m currently working on a Creating Devops related tech resourses 
-- 🌱 I’m currently learning Kubernetes
+### I'm a Site Reliability Engineer with over 8 years of experience in developing and managing scalable, secure, and robust cloud environments.
+- 🌱 I’m currently learning monitoring/observability solutions
 - 👯 I’m looking to collaborate on some random projects
-- 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
-- 💬 Ask me about DevOps, AWS, Infrastructure, Linux
-- ⚡ Fun fact: 
+- 🥅 2024 Goals: Advance career in Site Reliability
+- 💬 Ask me about SRE, DevOps, Azure, AWS, Infrastructure, Linux
+
 
 ### Connect with me:
 
